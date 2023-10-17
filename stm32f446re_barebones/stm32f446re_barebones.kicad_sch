@@ -3576,7 +3576,7 @@
     (property "Value" "USB_B_Mini" (at 128.905 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_USB:USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical" (at 132.715 38.1 0)
+    (property "Footprint" "Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal" (at 132.715 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.715 38.1 0)
