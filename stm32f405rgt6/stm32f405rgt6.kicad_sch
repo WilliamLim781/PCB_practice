@@ -2716,6 +2716,11 @@
     (stroke (width 0) (type default))
     (uuid a985f210-e259-4c84-aa49-ab785e571e00)
   )
+  (polyline (pts (xy 205.74 100.33) (xy 205.74 100.965))
+    (stroke (width 0) (type default))
+    (uuid aa8e3dd1-5b8b-47a2-8c07-b7e6129a48bc)
+  )
+
   (wire (pts (xy 31.75 173.99) (xy 31.75 172.72))
     (stroke (width 0) (type default))
     (uuid ac30ea49-9f79-4ff3-8db2-14b0e488d01e)
@@ -3761,7 +3766,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 214.63 71.12 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 46c27977-5c6f-40db-9d7b-90d427699f31)
     (property "Reference" "H4" (at 217.17 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4790,7 +4795,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 214.63 78.105 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b6f70580-60d8-4930-9a1c-a89860e728d3)
     (property "Reference" "H1" (at 217.17 75.565 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4843,7 +4848,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 257.175 78.105 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bdbb36fd-47f5-438f-bd8f-52b45bf5a374)
     (property "Reference" "H3" (at 259.715 75.565 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5037,7 +5042,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 257.175 70.485 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5b66649-fc7a-4b16-938a-c081848dd1c9)
     (property "Reference" "H2" (at 259.715 67.945 0)
       (effects (font (size 1.27 1.27)) (justify left))
