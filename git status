@@ -1,0 +1,211 @@
+[33mcommit 634cea4b3130292fb381e7f38a3490b5dc92bda8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 2eed6b2 e9af8cd
+Author: William Lim <william.lim781@gmail.com>
+Date:   Sat Oct 28 01:03:17 2023 -0500
+
+     added caps to the voltage regulator also change gerber and pos files
+
+[33mcommit 2eed6b24323b2b605d3c2fa0cb42041a528ab018[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Sat Oct 28 00:55:32 2023 -0500
+
+    added caps to the voltage regulator also gerber and position files need to be updated
+
+[33mcommit e9af8cd43ecd0b7538601e3b4fc1aa8823b5b655[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sat Oct 28 00:53:13 2023 -0500
+
+    added mx style swithches to  the keyboard pcb
+
+[33mcommit 7763eb64fc707aa7f54ef75ef3d788d027aa5ea3[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Mon Oct 23 19:55:02 2023 -0500
+
+    added symbol and pcb footprints
+
+[33mcommit 7862a618324e9f0ad310a5956001e427e7c1df01[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Mon Oct 23 19:50:43 2023 -0500
+
+    Add submodules
+
+[33mcommit 834f1afcb38eb9a956a548e38fbe55d965e20235[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sat Oct 21 23:05:53 2023 -0500
+
+     added production files
+
+[33mcommit 91a5fbbfe51b75db31d597f2b030915307e5c4be[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Tue Oct 17 20:31:11 2023 -0500
+
+     started prepping for fab
+
+[33mcommit 83bdca738417a75ee981a50816d811aae34a6098[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Tue Oct 17 17:44:24 2023 -0500
+
+     tweaked some stuff for the daq and added a files
+
+[33mcommit 76761dd87ace06e87e7ee933eb9223ed61dee6d4[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Oct 15 21:05:43 2023 -0500
+
+     added a new pcb practice
+
+[33mcommit 8f73d48e5697b221ac2de4370485f8c799b037b5[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Fri Oct 13 12:58:53 2023 -0500
+
+    Removed resistor at the ina- termina
+
+[33mcommit 54142b4d2b1bec02feb4e61380c094b78fa3ef39[m
+Author: William Lim <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Thu Oct 12 22:54:40 2023 -0500
+
+    Update README.md
+    
+    removed #
+
+[33mcommit c3e54e1fdeb3739c5178ab6edf636f95acb5ef1b[m
+Author: William Lim <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Thu Oct 12 22:54:25 2023 -0500
+
+    Create README.md
+    
+    Read me
+
+[33mcommit 3d6bbc7e9853ec3f162a3d5ca77614d50c7fe481[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Thu Oct 12 22:53:32 2023 -0500
+
+     PCB routing. Need to do USB differential pair. Also usb maybe backwards
+
+[33mcommit 99464a152a8703b3bbaba5f9b5b29a8adbe57f62[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Thu Oct 12 12:57:57 2023 -0500
+
+     finished the schematics, added footprints, and started with the pcb
+
+[33mcommit ee54b572dd2f83b794cc00c85069fb5aced9a945[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Oct 8 17:01:14 2023 -0500
+
+     added a simpler f446re that suppose to be a prototype DAQ
+
+[33mcommit 651d8c8ba61db5ab0f81ef82386a989193640fe9[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Oct 8 15:30:37 2023 -0500
+
+     adding some mounting holes
+
+[33mcommit 18c1d1a9ab782a6cac57ce26c799dbd216d628c7[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Oct 8 14:19:47 2023 -0500
+
+     tweaked oscillator, fixed serial debug names, added i2c connectors. Also don't forget to add a voltage regulator
+
+[33mcommit 696da08d230ba206702f714ec2ed9cb107669687[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sat Oct 7 21:13:38 2023 -0500
+
+    finished the schematic for the f446re. However, I forgot to add the name for the serial wire debug on the schematic
+
+[33mcommit 796d5ad5a90ca3c7e3f0af4f543481a4ba8830c7[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Fri Oct 6 17:55:50 2023 -0500
+
+    Added connectors for the left half of the f446re need to do the right half
+
+[33mcommit 24aeadf9eb632f07f62fe5c1781a1e051a47f523[m
+Merge: 17825ee 0848ee7
+Author: William Lim <william.lim781@gmail.com>
+Date:   Fri Oct 6 13:41:11 2023 -0500
+
+    Too many pushes to the repo at the same time causing problems
+    Merge branch 'main' of https://github.com/WilliamLim781/PCB_practice
+
+[33mcommit 17825ee34c003a612418bce6b0d49eb4262ecf37[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Fri Oct 6 13:40:52 2023 -0500
+
+     idk what this is
+
+[33mcommit 0848ee7c89e2e79d40fca1ca31b3f521f405d9f7[m
+Merge: ba661b8 14d9643
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Fri Oct 6 12:39:15 2023 -0500
+
+    messed up with the git commands
+    wqrge branch 'main' of https://github.com/WilliamLim781/PCB_practice
+
+[33mcommit ba661b8d7f192a222d96d29e224983f4deb47093[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Fri Oct 6 12:36:16 2023 -0500
+
+     added a new pcb practice (F446re)
+
+[33mcommit 14d9643d662918910124a78dae3cf2e79df910c7[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Mon Oct 2 11:06:17 2023 -0500
+
+     made changes to the HX711 footprints and finihsed the pcb
+
+[33mcommit 2911e3ebb79f8b14a66f97568e3afe2ddbdc984e[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sat Sep 30 18:00:52 2023 -0500
+
+    reorganize and add new pcb
+
+[33mcommit 0f2537117811250073a3852fcca1b6cc9ae63819[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Tue Sep 26 17:39:08 2023 -0500
+
+    PCB changes
+    
+    changed form factor, finished PCB, and ran DRC
+    
+    :wq
+
+[33mcommit 7de9b78dc0ef71ffb0a194d0d7912003fb9cdaa7[m
+Author: William Lim <william.lim781@gmail.com>
+Date:   Tue Sep 19 14:25:45 2023 -0500
+
+     removed the GPIO input and outpins (want to redo them) and mostly finished the first pcb layout
+
+[33mcommit 3b7d59d2a352ee88d220fc9a2c5907fdb9106078[m
+Merge: bc03d08 70b781b
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Mon Sep 18 22:38:34 2023 -0500
+
+    Merge branch 'main' of https://github.com/WilliamLim781/PCB_practice
+
+[33mcommit bc03d0814f8f7894916aaa6fe31908ad152bb535[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Mon Sep 18 22:38:08 2023 -0500
+
+     changed some footprints in the schemaitcs and also done some PCB layout for the board
+
+[33mcommit 70b781b134c2099efccb6ed2c0d8a92f08f29d51[m
+Author: William Lim <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Sep 17 22:30:10 2023 -0500
+
+    Update README.md
+
+[33mcommit 4eaadcb872054ee11160b2cddb06c9140de7b830[m
+Author: William Lim <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Sep 17 22:30:00 2023 -0500
+
+    Create README.md
+
+[33mcommit c78ac37cf8e1c2cd7085ec6b4fd74c8865b221d5[m
+Author: supercorgi69 <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Sep 17 22:29:10 2023 -0500
+
+     added the basic stm32 F411RE schematics
+
+[33mcommit c0dbf5b5e22c6fbcb8935002e323329be3c33b56[m
+Author: William Lim <113472670+WilliamLim781@users.noreply.github.com>
+Date:   Sun Sep 17 22:20:32 2023 -0500
+
+    Initial commit
