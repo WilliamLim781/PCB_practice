@@ -48,18 +48,7 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        },
-        {
-          "gap": 0.2032,
-          "via_gap": 0.2032,
-          "width": 0.261112
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -133,7 +122,7 @@
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.005,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -176,21 +165,8 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        0.3,
-        0.4,
-        0.5,
-        0.6,
-        0.75,
-        1.0
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
@@ -416,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stm32f405rgt6.kicad_pro",
+    "filename": "keyboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -493,8 +469,12 @@
   },
   "sheets": [
     [
-      "521c39b3-5842-46c1-bbd0-ab8aad1ee68c",
+      "f3d71561-f5a4-4a83-874f-9e45bc145d0c",
       ""
+    ],
+    [
+      "c1e0598e-2db9-404a-910c-1f169e622127",
+      "keyboard matrix "
     ]
   ],
   "text_variables": {}
