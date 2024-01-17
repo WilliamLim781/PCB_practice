@@ -326,6 +326,10 @@
     [
       "25bc3102-98ca-4c7c-b597-2d2eb7e7cb79",
       ""
+    ],
+    [
+      "47a564f6-67d8-4072-860d-be43385e9b7a",
+      "decouplingCapacitors"
     ]
   ],
   "text_variables": {}
