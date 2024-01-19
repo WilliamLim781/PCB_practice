@@ -1618,7 +1618,7 @@
     (property "Value" "USB_C_Plug_USB2.0" (at 48.26 140.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV" (at 52.07 161.29 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085" (at 52.07 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 52.07 161.29 0)
