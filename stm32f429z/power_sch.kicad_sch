@@ -1681,7 +1681,7 @@
     (property "Reference" "C21" (at 149.86 173.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10u" (at 149.86 176.53 0)
+    (property "Value" "22u" (at 149.86 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 147.0152 179.07 0)
