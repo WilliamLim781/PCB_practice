@@ -1658,7 +1658,7 @@
     (property "Value" "Schottky Diode" (at 70.1675 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 69.85 146.05 0)
+    (property "Footprint" "Diode_SMD:D_SMA-SMB_Universal_Handsoldering" (at 69.85 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 69.85 146.05 0)
