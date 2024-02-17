@@ -1262,6 +1262,11 @@
           (reference "C21") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "C26") (unit 1)
+        )
+      )
     )
   )
 
@@ -1284,6 +1289,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR061") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR061") (unit 1)
         )
       )
@@ -1325,6 +1335,11 @@
           (reference "J13") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "J13") (unit 1)
+        )
+      )
     )
   )
 
@@ -1354,6 +1369,11 @@
           (reference "R13") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "R15") (unit 1)
+        )
+      )
       (project "STM32F030"
         (path "/92294cfa-b22f-416c-99d1-d973889b333f"
           (reference "R8") (unit 1)
@@ -1381,6 +1401,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR060") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR060") (unit 1)
         )
       )
@@ -1418,6 +1443,11 @@
           (reference "C25") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "C25") (unit 1)
+        )
+      )
       (project "STM32F030"
         (path "/92294cfa-b22f-416c-99d1-d973889b333f"
           (reference "C13") (unit 1)
@@ -1445,6 +1475,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR057") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR057") (unit 1)
         )
       )
@@ -1481,6 +1516,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "Y1") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "Y1") (unit 1)
         )
       )
@@ -1536,6 +1576,11 @@
           (reference "U5") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "U5") (unit 1)
+        )
+      )
       (project "STM32F030"
         (path "/92294cfa-b22f-416c-99d1-d973889b333f"
           (reference "U2") (unit 1)
@@ -1563,6 +1608,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR058") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR058") (unit 1)
         )
       )
@@ -1596,6 +1646,11 @@
           (reference "#PWR038") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR0104") (unit 1)
+        )
+      )
     )
   )
 
@@ -1622,6 +1677,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "D2") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "D2") (unit 1)
         )
       )
@@ -1652,6 +1712,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR062") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR062") (unit 1)
         )
       )
@@ -1689,6 +1754,11 @@
           (reference "R15") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "R18") (unit 1)
+        )
+      )
       (project "STM32F030"
         (path "/92294cfa-b22f-416c-99d1-d973889b333f"
           (reference "R7") (unit 1)
@@ -1723,6 +1793,11 @@
           (reference "D3") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "D3") (unit 1)
+        )
+      )
       (project "STM32F030"
         (path "/92294cfa-b22f-416c-99d1-d973889b333f"
           (reference "D2") (unit 1)
@@ -1750,6 +1825,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR030") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR030") (unit 1)
         )
       )
@@ -1782,6 +1862,11 @@
           (reference "C20") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "C20") (unit 1)
+        )
+      )
     )
   )
 
@@ -1804,6 +1889,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR029") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR029") (unit 1)
         )
       )
@@ -1836,6 +1926,11 @@
           (reference "D6") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "D6") (unit 1)
+        )
+      )
     )
   )
 
@@ -1862,6 +1957,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "C23") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "C23") (unit 1)
         )
       )
@@ -1892,6 +1992,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR059") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR059") (unit 1)
         )
       )
@@ -1929,6 +2034,11 @@
           (reference "C24") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "C24") (unit 1)
+        )
+      )
       (project "STM32F030"
         (path "/92294cfa-b22f-416c-99d1-d973889b333f"
           (reference "C14") (unit 1)
@@ -1962,6 +2072,11 @@
           (reference "#PWR037") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR0102") (unit 1)
+        )
+      )
     )
   )
 
@@ -1974,7 +2089,7 @@
     (property "Value" "USB_OTG" (at 62.23 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_USB:USB_A_Wuerth_61400826021_Horizontal_Stacked" (at 66.04 45.72 0)
+    (property "Footprint" "Connector_USB:USB_A_TE_292303-7_Horizontal" (at 66.04 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 66.04 45.72 0)
@@ -1992,6 +2107,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "J6") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "J6") (unit 1)
         )
       )
@@ -2017,6 +2137,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR063") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR063") (unit 1)
         )
       )
@@ -2054,6 +2179,11 @@
           (reference "R14") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "R14") (unit 1)
+        )
+      )
       (project "STM32F030"
         (path "/92294cfa-b22f-416c-99d1-d973889b333f"
           (reference "R3") (unit 1)
@@ -2084,6 +2214,11 @@
           (reference "#PWR064") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR0105") (unit 1)
+        )
+      )
     )
   )
 
@@ -2106,6 +2241,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR056") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR056") (unit 1)
         )
       )
@@ -2137,6 +2277,11 @@
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/a8b40fa5-269b-4c25-b32b-052a9524b109"
           (reference "#PWR036") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/a8b40fa5-269b-4c25-b32b-052a9524b109"
+          (reference "#PWR0103") (unit 1)
         )
       )
     )

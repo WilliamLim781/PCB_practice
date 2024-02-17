@@ -530,6 +530,11 @@
           (reference "#PWR06") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/316b2c5f-f758-41b7-9b12-94045daa530d"
+          (reference "#PWR06") (unit 1)
+        )
+      )
     )
   )
 
@@ -556,6 +561,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/316b2c5f-f758-41b7-9b12-94045daa530d"
+          (reference "C1") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/316b2c5f-f758-41b7-9b12-94045daa530d"
           (reference "C1") (unit 1)
         )
       )
@@ -588,6 +598,11 @@
           (reference "R1") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/316b2c5f-f758-41b7-9b12-94045daa530d"
+          (reference "R1") (unit 1)
+        )
+      )
     )
   )
 
@@ -610,6 +625,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/316b2c5f-f758-41b7-9b12-94045daa530d"
+          (reference "#PWR07") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/316b2c5f-f758-41b7-9b12-94045daa530d"
           (reference "#PWR07") (unit 1)
         )
       )
@@ -642,6 +662,11 @@
           (reference "C2") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/316b2c5f-f758-41b7-9b12-94045daa530d"
+          (reference "C2") (unit 1)
+        )
+      )
     )
   )
 
@@ -664,6 +689,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/316b2c5f-f758-41b7-9b12-94045daa530d"
+          (reference "#PWR08") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/316b2c5f-f758-41b7-9b12-94045daa530d"
           (reference "#PWR08") (unit 1)
         )
       )
@@ -695,6 +725,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/316b2c5f-f758-41b7-9b12-94045daa530d"
+          (reference "X1") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/316b2c5f-f758-41b7-9b12-94045daa530d"
           (reference "X1") (unit 1)
         )
       )

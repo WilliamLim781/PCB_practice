@@ -468,6 +468,11 @@
           (reference "U2") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "U2") (unit 1)
+        )
+      )
     )
   )
 
@@ -493,6 +498,11 @@
           (reference "#PWR034") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR034") (unit 1)
+        )
+      )
     )
   )
 
@@ -515,6 +525,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR071") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
           (reference "#PWR071") (unit 1)
         )
       )
@@ -553,6 +568,11 @@
           (reference "U3") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "U3") (unit 1)
+        )
+      )
     )
   )
 
@@ -582,6 +602,11 @@
           (reference "R10") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "R10") (unit 1)
+        )
+      )
     )
   )
 
@@ -604,6 +629,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR072") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
           (reference "#PWR072") (unit 1)
         )
       )
@@ -640,6 +670,11 @@
           (reference "J7") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "J7") (unit 1)
+        )
+      )
     )
   )
 
@@ -665,6 +700,11 @@
           (reference "#PWR032") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR032") (unit 1)
+        )
+      )
     )
   )
 
@@ -687,6 +727,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR033") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
           (reference "#PWR033") (unit 1)
         )
       )
@@ -723,6 +768,11 @@
           (reference "J11") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "J11") (unit 1)
+        )
+      )
     )
   )
 
@@ -752,6 +802,11 @@
           (reference "R11") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "R11") (unit 1)
+        )
+      )
     )
   )
 
@@ -774,6 +829,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR031") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
           (reference "#PWR031") (unit 1)
         )
       )
@@ -802,6 +862,11 @@
           (reference "#PWR073") (unit 1)
         )
       )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR073") (unit 1)
+        )
+      )
     )
   )
 
@@ -824,6 +889,11 @@
     (instances
       (project "stm32f429z"
         (path "/09c21947-d3c4-4f82-9fb4-45f647ba61fc/7aabc175-88c2-4726-8e5a-eefd985d7059"
+          (reference "#PWR070") (unit 1)
+        )
+      )
+      (project "rev2"
+        (path "/25bc3102-98ca-4c7c-b597-2d2eb7e7cb79/7aabc175-88c2-4726-8e5a-eefd985d7059"
           (reference "#PWR070") (unit 1)
         )
       )
