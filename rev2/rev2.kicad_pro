@@ -473,24 +473,12 @@
       ""
     ],
     [
-      "316b2c5f-f758-41b7-9b12-94045daa530d",
-      "HSE"
+      "4ab66914-104c-49e4-8ce8-632dbfcbb48d",
+      "Filtering"
     ],
     [
-      "694a836f-d3f6-4b1c-8285-62a6284055e0",
-      "power"
-    ],
-    [
-      "7392f493-4466-4071-98c2-c2793c4b971d",
-      "connectors"
-    ],
-    [
-      "a8b40fa5-269b-4c25-b32b-052a9524b109",
-      "USB"
-    ],
-    [
-      "7aabc175-88c2-4726-8e5a-eefd985d7059",
-      "CAN"
+      "c76d59b4-e410-4f0a-9fc8-fa5b3c92e8b5",
+      "Clock"
     ]
   ],
   "text_variables": {}
