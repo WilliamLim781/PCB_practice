@@ -48,7 +48,28 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.2,
+          "width": 0.2
+        },
+        {
+          "gap": 0.15,
+          "via_gap": 0.0,
+          "width": 0.3
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.0,
+          "width": 0.35
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -165,8 +186,16 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.5
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
@@ -471,10 +500,6 @@
     [
       "25bc3102-98ca-4c7c-b597-2d2eb7e7cb79",
       ""
-    ],
-    [
-      "4ab66914-104c-49e4-8ce8-632dbfcbb48d",
-      "Filtering"
     ]
   ],
   "text_variables": {}
