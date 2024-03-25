@@ -5912,7 +5912,7 @@
     (stroke (width 0.5) (type solid)) (fill none) (layer "F.SilkS") (tstamp 97f1fe85-1965-4a6a-8543-c0ba9c97e70c))
   (gr_circle (center 64.85 42.2) (end 64.9 42.2)
     (stroke (width 0.5) (type solid)) (fill none) (layer "F.SilkS") (tstamp bf42e35d-3f13-4a4f-9b9b-23a5264064b6))
-  (gr_circle (center 93.75 43.95) (end 93.8 43.95)
+  (gr_circle (center 94.8944 47.3456) (end 94.9444 47.3456)
     (stroke (width 0.5) (type solid)) (fill none) (layer "F.SilkS") (tstamp bfb86a52-41b8-4165-867c-c4719fa4d8e7))
   (gr_line (start 54.19868 61.67132) (end 54.19868 25.42132)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 023eec42-8368-4cc3-bb27-d0edee70a4f1))
