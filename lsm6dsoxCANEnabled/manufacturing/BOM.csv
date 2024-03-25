@@ -1,0 +1,25 @@
+Comment,Designator,FootPrint,JLCPCB PART#
+100n,"C1, C6,C7,C8,C9, C11, C13, C14",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+14p,"C2, C3",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C126546
+10u,C4,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C386081
+22u,C5,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C318688
+4.7u,C10,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C711094
+1u,C12,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C106858
+LED,D1,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2290
+MountingHole,H1-H4,MountingHole:MountingHole_4mm_Pad_Via,
+Termination Resistor ,J1,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+GPIO,J2,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",
+Power,J3,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",
+SWD,J4,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,
+CANH and CANL input n output,J5,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal",
+2k2,"R1, R2, R5",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C4190
+0,R3,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C21189
+120,R4,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C22787
+Nrst,SW1,Button_Switch_SMD:SW_SPST_PTS645,C2801823
+BOOT0 ,SW2,Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN,C221660
+LSM6DSOX,U1,Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,C481766
+TJA1051T,U2,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,"
+C7432801"
+STM32F103C8Tx,U3,Package_QFP:LQFP-48_7x7mm_P0.5mm,C8734
+AMS1117CD-3.3,    U5,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C6186
+16mhz,Y1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,C12668

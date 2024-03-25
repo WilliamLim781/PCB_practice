@@ -1,0 +1,13 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Termination ","PinHeader_1x02_P2.54mm_Vertical",157.000000,-79.275000,0.000000,bottom
+"J2","CAN1","TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",149.980000,-78.500000,0.000000,bottom
+"J3","Termination ","PinHeader_1x02_P2.54mm_Vertical",156.750000,-121.275000,0.000000,bottom
+"J4","CAN2","TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",150.270000,-119.000000,180.000000,bottom
+"J5","3.3V power breakout","PinHeader_1x02_P2.54mm_Vertical",112.268000,-102.407800,180.000000,bottom
+"J6","LIN Pots","TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal",120.269000,-118.999000,180.000000,bottom
+"J7","AIN","TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal",132.290000,-119.000000,180.000000,bottom
+"J10","GPIO","TerminalBlock_Phoenix_MPT-0,5-8-2.54_1x08_P2.54mm_Horizontal",126.090000,-78.500000,0.000000,bottom
+"J11","SWD","PinHeader_1x03_P2.54mm_Vertical",146.761200,-83.921600,90.000000,bottom
+"J12","5V power breakout","PinHeader_1x02_P2.54mm_Vertical",157.581600,-89.971800,0.000000,bottom
+"SW1","SW_Push","SW_SPST_PTS645",115.824000,-86.868000,180.000000,bottom
+"SW2","SW_SPDT","SW_SPDT_PCM12",116.078000,-76.200000,0.000000,bottom
