@@ -1,33 +1,33 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
-"C1","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",59.600000,-46.200000,180.000000,top
-"C2","14p","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",67.700000,-41.550000,0.000000,top
-"C3","14p","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",67.800000,-50.350000,180.000000,top
-"C4","10u","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",86.700000,-47.700000,-90.000000,top
-"C5","22u","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",86.450000,-51.250000,90.000000,top
-"C6","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",72.450000,-42.100000,180.000000,top
-"C7","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",81.325000,-51.050000,180.000000,top
-"C8","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",77.250000,-37.100000,90.000000,top
-"C9","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",86.600000,-41.850000,-90.000000,top
-"C10","4.7u","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",81.337500,-52.600000,180.000000,top
-"C11","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",73.350000,-49.250000,90.000000,top
-"C12","1u","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",71.800000,-49.250000,90.000000,top
-"C13","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",84.250000,-32.300000,0.000000,top
-"C14","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",87.550000,-32.300000,180.000000,top
-"D1","LED","LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder",96.000000,-53.750000,90.000000,top
-"J1","Termination Resistor ","PinHeader_1x02_P2.54mm_Vertical",98.200000,-34.925000,180.000000,top
-"J2","GPIO","TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",69.000000,-61.600000,0.000000,top
-"J3","Power","TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",84.700000,-61.600000,0.000000,top
-"J4","SWD","PinHeader_2x05_P2.54mm_Vertical",97.210000,-38.730000,0.000000,top
-"J5","CANH and CANL input n output","TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal",85.600000,-25.045000,180.000000,top
-"R1","2k2","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",80.400000,-37.150000,-90.000000,top
-"R2","2k2","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",78.850000,-37.150000,-90.000000,top
-"R3","0","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",67.750000,-48.850000,180.000000,top
-"R4","120","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",102.050000,-33.650000,90.000000,top
-"R5","2k2","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",97.650000,-53.750000,90.000000,top
-"SW1","Nrst","SW_SPST_PTS645",59.300000,-52.050000,90.000000,top
-"SW2","BOOT0 ","SW_SPDT_CK-JS102011SAQN",56.600000,-34.850000,-90.000000,top
-"U1","~","LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y",86.450000,-34.950000,180.000000,top
-"U2","TJA1051T","SOIC-8_3.9x4.9mm_P1.27mm",92.000000,-35.200000,90.000000,top
-"U3","STM32F103C8Tx","LQFP-48_7x7mm_P0.5mm",79.637500,-44.550000,0.000000,top
-"U5","AMS1117-3.3","SOT-223-3_TabPin2",91.100000,-50.750000,-90.000000,top
-"Y1","16mhz","Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering",67.550000,-45.250000,-90.000000,top
+Designator,Val,Mid X,Mid Y,Layer,Rotation
+C1,100n,59.6,-46.2,top,180
+C2,14p,67.7,-41.55,top,0
+C3,14p,67.8,-50.35,top,180
+C4,10u,86.7,-47.7,top,-90
+C5,22u,86.45,-51.25,top,90
+C6,100n,72.45,-42.1,top,180
+C7,100n,81.325,-51.05,top,180
+C8,100n,77.25,-37.1,top,90
+C9,100n,86.6,-41.85,top,-90
+C10,4.7u,81.3375,-52.6,top,180
+C11,100n,73.35,-49.25,top,90
+C12,1u,71.8,-49.25,top,90
+C13,100n,84.25,-32.3,top,0
+C14,100n,87.55,-32.3,top,180
+D1,LED,96,-53.75,top,90
+J1,Termination Resistor ,98.2,-34.925,top,180
+J2,GPIO,69,-61.6,top,0
+J3,Power,84.7,-61.6,top,0
+J4,SWD,97.21,-38.73,top,0
+J5,CANH and CANL input n output,85.6,-25.045,top,180
+R1,2k2,80.4,-37.15,top,-90
+R2,2k2,78.85,-37.15,top,-90
+R3,0,67.75,-48.85,top,180
+R4,120,102.05,-33.65,top,90
+R5,2k2,97.65,-53.75,top,90
+SW1,Nrst,59.3,-52.05,top,90
+SW2,BOOT0 ,56.6,-34.85,top,-90
+U1,~,86.45,-34.95,top,180
+U2,TJA1051T,92,-35.2,top,90
+U3,STM32F103C8Tx,79.6375,-44.55,top,0
+U5,AMS1117-3.3,91.1,-50.75,top,-90
+Y1,16mhz,67.55,-45.25,top,-90
