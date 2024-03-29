@@ -1,0 +1,42 @@
+Comment,Designator,Footprint,JLCPCB part#
+14pF,"C1, C2",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C5360816
+100n,"C3-14, C16, C20, C22, C23, C28",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C76599
+4.7u,"C15, C21",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19666
+10n,C17,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C57112
+1u,C18,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
+500n,C19,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C124567
+6p,"C24, C25",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C282508
+10u,C26,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C96446
+22u,"C27, C29, C30",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C96446
+LED,D1-4,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C72038
+Schottky Diode,"D5, D6",Diode_SMD:D_SMA-SMB_Universal_Handsoldering,C2480
+MountingHole,H1-H4,MountingHole:MountingHole_4.3mm_M4_Pad_Via,
+ADC connector 2,J1,NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+ADC connector 1,J2,NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+SPI 2 connector,J3,NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+SPI 1 connector,J4,NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+I2C 2 connector,J5,NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+USB_OTG,J6,Connector_USB:USB_A_Molex_67643_Horizontal,
+CAN connector,"J7, J11",NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+SWD,J8,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,
+UART 1 connectors,J10,NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+USB to UART GPIO,J12,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,
+USB_OTG,J13,Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal,
+I2C 1 connector,J14,NewMolexLibrary:Molex_MegaFit_2x03x5.70mm_Angled,
+GPIO,"J15, J16","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-5_1x05_P5.00mm_Horizontal",
+USB_C_Plug_USB2.0,P2,Connector_USB:USB_C_Receptacle_GCT_USB4085,
+0,R1,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,
+100,R2-5,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C441885
+2k2,"R6-9, R14-17",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C427273
+120,"R10, R11",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C2906988
+10k,R12,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C4226066
+4k7,R13,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C473239
+Boot0,SW1,Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN,
+NRST,SW2,Button_Switch_SMD:SW_SPST_PTS645,
+Logging BTN,SW4,Button_Switch_SMD:SW_SPST_PTS645,
+STM32F429ZITx,U1,Package_QFP:LQFP-144_20x20mm_P0.5mm,C92002
+TJA1051T,"U2, U3",Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C38695
+MCP2200T-I-SO,U5,Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm,
+AMS1117-3.3,U6,Package_TO_SOT_SMD:SOT-223-3_TabPin2,
+16Mhz,X1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,C12668
+12MHz,Y1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,
