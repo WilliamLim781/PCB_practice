@@ -1861,7 +1861,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 255.905 47.625 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 527e511b-7d10-4551-8e15-b40ee2023845)
     (property "Reference" "C49" (at 259.715 46.355 0)
       (effects (font (size 1.27 1.27)) (justify left))
