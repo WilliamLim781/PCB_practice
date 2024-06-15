@@ -31656,6 +31656,10 @@
     )
   )
 
+  (text "Power Receptacle\n" (at 37.465 102.87 0)
+    (effects (font (size 2 2)) (justify left bottom))
+    (uuid d40371db-35a1-42b7-a705-7f16bdc3fe39)
+  )
   (text "USB Data transfer and power\n" (at 46.355 19.05 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid f11b83dd-3a33-4bfe-8133-cfc882eafdf8)
