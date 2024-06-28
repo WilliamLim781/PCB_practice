@@ -33398,7 +33398,7 @@
     )
   )
 
-  (text_box "max current is plus of minus 20mA\n"
+  (text_box "max current is plus or minus 20mA\n"
     (at 154.94 142.875 0) (size 22.225 6.35)
     (stroke (width 0) (type default))
     (fill (type none))
