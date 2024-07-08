@@ -328,16 +328,16 @@
       ""
     ],
     [
-      "02f3f658-a024-45e6-bde4-a1d56bfbf7f3",
-      "PWM polarity switch"
-    ],
-    [
       "19277d6f-6fa4-4d47-97bb-6cdb890a6ffd",
       "MCU power"
     ],
     [
       "6c176257-55ea-400d-9b6a-4e56d8cdd701",
       "MosFet TIM_1"
+    ],
+    [
+      "c52a5615-f315-4e22-ba84-04cc2f0ff818",
+      "MosFet TIM_2 and 3"
     ]
   ],
   "text_variables": {}
