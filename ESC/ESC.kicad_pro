@@ -333,7 +333,11 @@
     ],
     [
       "19277d6f-6fa4-4d47-97bb-6cdb890a6ffd",
-      "power"
+      "MCU power"
+    ],
+    [
+      "6c176257-55ea-400d-9b6a-4e56d8cdd701",
+      "MosFet TIM_1"
     ]
   ],
   "text_variables": {}
