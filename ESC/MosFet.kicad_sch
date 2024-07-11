@@ -4994,6 +4994,13 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 34d960dd-4605-48c1-8a6a-8e2cee2c944b)
   )
+  (text_box "Current ripple = Ipeak/ (Fsw * (1 - D))\n\nIpeak = peak current\nFsw = switching frequency\nD = duty cycle"
+    (at 184.15 88.265 0) (size 45.72 13.335)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 7cfe6428-2b1d-4d0b-b0f5-eca474784753)
+  )
   (text_box "bootstrap capacitor was calulated using Qg/VoltageDrop\nQg was taken from datasheet and a small voltage drop of .5 was assumed. which gave a value of 2.68nF. As a rule of thumb the value of the minimum capacitoance(2.68nF) was increase about 10 times which gives 2.7uF\n "
     (at 236.855 38.1 0) (size 38.735 20.955)
     (stroke (width 0) (type default))
@@ -5276,8 +5283,8 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 101.6 181.61 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Device:R") (at 101.6 181.61 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 24c65d53-f540-4a7a-ba34-3d977106d91c)
     (property "Reference" "R8" (at 101.6 175.895 90)
       (effects (font (size 1.27 1.27)))
@@ -6005,7 +6012,7 @@
     (property "Value" "Conn_01x03" (at 189.23 113.665 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal" (at 186.69 112.395 0)
+    (property "Footprint" "Connector_AMASS:AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal" (at 186.69 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 112.395 0)

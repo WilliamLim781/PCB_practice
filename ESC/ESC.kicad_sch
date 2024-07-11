@@ -3088,6 +3088,13 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 30d77c00-48bf-46cb-a760-2da63628a8c1)
   )
+  (text_box "Target PWM frequency = 10kHZ\nDuty cycle range = 10 % - 80 %"
+    (at 216.535 15.24 0) (size 34.925 21.59)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 32a8d02b-df05-49b0-8d30-e16b66235f8e)
+  )
 
   (text "Find cap values and clock frequency" (at 19.685 71.755 0)
     (effects (font (size 1.27 1.27) (color 255 0 0 1)) (justify left bottom))
