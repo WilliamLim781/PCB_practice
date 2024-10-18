@@ -1,0 +1,28 @@
+Designator,Comment,Footprint,JLCPCB Part #
+"C1-5, C10",100n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C116838
+C6,1u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C106858
+C7,4.7u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C86016
+"C8, C9",C,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C396824
+"C13, C18, C21",100n 50V,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C116838
+"C14, C20, C23",2u7 50V ,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C106386
+"C15, C19, C22, C33",4u7,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C99229
+C16,22u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C87153
+C17,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C3846786
+D1-3,D,Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C143772
+J1,Conn_01x02_Socket,Connector_AMASS:AMASS_XT60PW-F_1x02_P7.20mm_Horizontal,C428722
+J2,Conn_01x03,Connector_AMASS:AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal,
+J4,swd,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,
+J5,input,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,
+JP1-6,jump,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,
+Q1-6,BSC028N06LS3,Package_TO_SOT_SMD:TDSON-8-1,C534316
+"R1, R2, R5-8",200,Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,C310397
+R3,10k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+R4,11k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C100720
+R9,Current limiter,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C21189
+RV1,pot,Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal,
+SW1,Boot0,Button_Switch_SMD:SW_SPDT_PCM12,C221841
+SW2,NRST,Button_Switch_SMD:SW_SPST_PTS645,
+U1,STM32F411RETx,Package_QFP:LQFP-64_10x10mm_P0.5mm,C94355
+U2,AMS1117,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C6186
+U5-7,IRS2101,Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm,C67283
+Y1,16Mhz?,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C252260
