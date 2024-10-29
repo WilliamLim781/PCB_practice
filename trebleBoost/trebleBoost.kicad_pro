@@ -239,10 +239,10 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "ignore",
+      "simulation_model_issue": "warning",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -254,7 +254,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tubeScreamer.kicad_pro",
+    "filename": "trebleBoost.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -386,6 +386,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -399,8 +407,8 @@
   },
   "sheets": [
     [
-      "fe43b027-0170-402c-860b-ae4fa1f1653c",
-      ""
+      "d1c93e52-e56b-4f11-909b-cc89e50e0b38",
+      "Root"
     ]
   ],
   "text_variables": {}
