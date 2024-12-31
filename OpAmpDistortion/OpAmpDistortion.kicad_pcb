@@ -74,9 +74,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "manufacturing/")
 		)
 	)
 	(net 0 "")
@@ -1893,7 +1893,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/5f5491f8-c1ab-4946-b0c3-3b99748415b9")
+		(path "/c731bc76-ffa3-439c-afa2-5a8437492cbf")
 		(sheetname "Root")
 		(sheetfile "OpAmpDistortion.kicad_sch")
 		(attr through_hole)
@@ -4945,6 +4945,17 @@
 			)
 		)
 	)
+	(gr_circle
+		(center 136.95 89.095576)
+		(end 137.19 89.315576)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "2ac0bf2b-9a0b-4ab7-b536-95f53123c6a4")
+	)
 	(gr_rect
 		(start 124.5 81.5936)
 		(end 155.9 100.2)
@@ -4955,6 +4966,186 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "0e824066-a19b-4a53-be0f-70fe0cd7d80b")
+	)
+	(gr_text "out"
+		(at 148.68 99.77 0)
+		(layer "F.SilkS")
+		(uuid "078fcc12-0d02-4d71-9be9-99f6b9900607")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "*"
+		(at 150.26 91.64 0)
+		(layer "F.SilkS")
+		(uuid "0eae829c-7b88-4547-a6e5-d8e6086fbf85")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 128.63 88.15 0)
+		(layer "F.SilkS")
+		(uuid "13084338-ffe3-492c-a87d-702249ca6f2e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 132.31 94.47 0)
+		(layer "F.SilkS")
+		(uuid "4e73b028-69d6-45e1-b38a-9eb0ef7ed995")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "G"
+		(at 150.23 89.645 0)
+		(layer "F.SilkS")
+		(uuid "544c5cfb-5213-4ed1-a9d8-419c86ccd072")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "In"
+		(at 130.8 86.03 0)
+		(layer "F.SilkS")
+		(uuid "5937307c-83dc-41f6-b6ec-915ddea8c0af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "O"
+		(at 154.33 91.45 0)
+		(layer "F.SilkS")
+		(uuid "96044452-d89c-42aa-b59b-0982e5b47581")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-\n"
+		(at 154.1 94.04 0)
+		(layer "F.SilkS")
+		(uuid "a89dfbf0-203e-4e49-b806-21aa186dc114")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Tone"
+		(at 139.89 84.57 0)
+		(layer "F.SilkS")
+		(uuid "abb93a1b-079d-4b84-bb56-01cfedbac195")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "*"
+		(at 137.81 84.48 0)
+		(layer "F.SilkS")
+		(uuid "bd4b6b11-f53e-4432-ab5b-3f20effad052")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "*"
+		(at 150.3 88.98 0)
+		(layer "F.SilkS")
+		(uuid "c4fed967-d258-4abc-a8e3-a54cae05d1f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "V"
+		(at 152.6032 87.062 0)
+		(layer "F.SilkS")
+		(uuid "cb0859ec-10ed-4ab8-98c4-176a8b744348")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "bat\n"
+		(at 130.09 99.38 0)
+		(layer "F.SilkS")
+		(uuid "ddd71fa7-ace4-409b-8a3b-88df685f9408")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 153.04 97.78 0)
+		(layer "F.SilkS")
+		(uuid "e115e4ba-3ea3-4ed0-b3ab-8b493e67f524")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "*"
+		(at 140.75 84.34 0)
+		(layer "F.SilkS")
+		(uuid "fde8fda4-35e0-48e0-bc77-7d4af5ad0121")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 134.875 96.92)

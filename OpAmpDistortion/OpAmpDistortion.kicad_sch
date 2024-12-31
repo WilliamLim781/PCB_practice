@@ -2734,7 +2734,6 @@
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
 		(at 36.83 111.76 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2742,7 +2741,7 @@
 		(dnp no)
 		(uuid "48d5a8fd-4cb0-406b-b3cd-d8605496d19e")
 		(property "Reference" "J1"
-			(at 39.116 110.998 0)
+			(at 34.544 110.998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2750,7 +2749,7 @@
 			)
 		)
 		(property "Value" "INPUT"
-			(at 39.624 113.03 0)
+			(at 34.036 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3302,76 +3301,6 @@
 			(project ""
 				(path "/63e2fb5d-8ac3-4578-a4a1-86700891658c"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 109.22 156.21 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "96846832-7be4-4e78-987c-4e75b6356499")
-		(property "Reference" "J3"
-			(at 113.03 154.3049 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x02_Pin"
-			(at 113.03 156.8449 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 109.22 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 109.22 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 109.22 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "54644fb3-bcae-436b-8708-fb5d8968fbdd")
-		)
-		(pin "1"
-			(uuid "08727e03-cbeb-4f5f-8571-818c205e3899")
-		)
-		(instances
-			(project ""
-				(path "/63e2fb5d-8ac3-4578-a4a1-86700891658c"
-					(reference "J3")
 					(unit 1)
 				)
 			)
