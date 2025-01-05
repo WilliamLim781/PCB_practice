@@ -1,0 +1,26 @@
+Comment,Designator,Footprint,,JLCPCB Part#
+9V,BT1,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,
+10n,"C1,C2",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,C57112
+10u,C3,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,C96446
+100n,"C4,C5,C7,C8",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,C14663
+1u?,"C6,C9",Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,C15849
+1n4148,"D1,D2,D3,D4",Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,C81598
+100k,DualPot1,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+INPUT,J1,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,
+OUTPUT,"J2,J5",Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,
+PWR switch,J4,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,
+GND connections,J6,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+2k,R1,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C4190
+10k,"R2,R12",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C25804
+47k,R3,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C25819
+4k7,"R4,R5",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C23162
+2k2,"R6,R7",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C4190
+100,"R8,R10",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C22775
+1M,"R9,R11",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C22935
+100?,R13,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,C22775
+20k? tone,RV1,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+Volume,RV2,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+Gain/distortion,RV3,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+DualPot2,RV4,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+Gain10k?,RV5,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,
+NE5532,"U1,U2",Package_DIP:DIP-8_W7.62mm_LongPads,,
