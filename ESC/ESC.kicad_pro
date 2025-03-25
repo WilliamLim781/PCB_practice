@@ -564,7 +564,11 @@
   "sheets": [
     [
       "88e9b63e-ca06-4d41-87b7-50146fa458bf",
-      ""
+      "Root"
+    ],
+    [
+      "c224d0c3-de95-48fb-b9b0-76b8398a8808",
+      "MosFet TIM_1_PhaseB"
     ],
     [
       "19277d6f-6fa4-4d47-97bb-6cdb890a6ffd",
@@ -572,11 +576,11 @@
     ],
     [
       "6c176257-55ea-400d-9b6a-4e56d8cdd701",
-      "MosFet TIM_1"
+      "MosFet TIM_1_PhaseA"
     ],
     [
-      "c52a5615-f315-4e22-ba84-04cc2f0ff818",
-      "MosFet TIM_2 and 3"
+      "f3ddebaa-0764-43ca-b598-3f9e371f6353",
+      "MosFet TIM_1_PhaseC"
     ]
   ],
   "text_variables": {}
