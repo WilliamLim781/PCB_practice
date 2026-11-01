@@ -1,0 +1,31 @@
+Designator,Comment,Footprint,JLCPCB Part #
+C1,4.7u,Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,C335103
+"C2,C3,C4,C5,C6,C7",100n,Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,C49062
+C8,1u,Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,C53067
+"C9,C10",C,Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,C1578
+"C11,C16,C19,C22",4u7,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19666
+C12,10u,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C15850
+C13,22u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C59461
+"C14,C17,C20",100n 50V,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+"C15,C18,C21",.027u 50v,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C15849
+"D1,D2,D3",D,Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder,
+J1,swd,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,
+J2,input,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,
+J3,Conn_01x03,Connector_AMASS:AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal,
+J4,Conn_01x02_Socket,Connector_AMASS:AMASS_XT60PW-F_1x02_P7.20mm_Horizontal,
+"Q1,Q2,Q3,Q4,Q5,Q6",BSC028N06LS3,Package_TO_SOT_SMD:TDSON-8-1,C5804631
+R1,Current limiter,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C21190
+R2,10k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+R3,11k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25950
+"R4,R5,R9,R10,R14,R15",100,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17901
+"R6,R11,R16",100k,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C25741
+"R7,R12,R17",2m,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,
+"R8,R13,R18",22K,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C25768
+RV1,pot,Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal,
+SW1,NRST,Button_Switch_SMD:SW_SPST_PTS647_Sx38,
+SW2,Boot0,Button_Switch_SMD:SW_SPDT_PCM12,
+U1,STM32F411RETx,Package_QFP:LQFP-64_10x10mm_P0.5mm,C94355
+U2,AMS1117,Package_TO_SOT_SMD:SOT-223-3_TabPin2,
+"U3,U5,U7",IR2104,Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm,
+"U4,U6,U8",INA180A1,Package_TO_SOT_SMD:SOT-23-5,
+Y1,16Mhz?,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738

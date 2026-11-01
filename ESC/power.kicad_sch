@@ -5003,7 +5003,7 @@
 			"gg=="
 		)
 	)
-	(text_box "power needs to be adjusted for 2-4s( 7.4 - 14.8V ). which means ideally vout should remain 3.3V with this range of voltages"
+	(text_box "power needs to be adjusted for 2-4s( 7.4 - 16.8V ). which means ideally vout should remain 3.3V with this range of voltages"
 		(exclude_from_sim no)
 		(at 252.095 13.335 0)
 		(size 31.115 14.605)
@@ -5051,7 +5051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05bb8eee-b77b-4768-9f21-1692643b800e")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG02"
 			(at 95.885 46.99 0)
 			(effects
 				(font
@@ -5101,7 +5101,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#FLG01")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -5117,7 +5117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27e7e22d-c1d1-49a5-aac8-b6d6a6db828e")
-		(property "Reference" "J1"
+		(property "Reference" "J4"
 			(at 52.07 52.705 0)
 			(effects
 				(font
@@ -5171,7 +5171,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "J1")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -5187,7 +5187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aa664cf-ad54-47f2-b98b-43c2c3cc01d7")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR033"
 			(at 92.71 75.565 0)
 			(effects
 				(font
@@ -5237,7 +5237,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR027")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -5253,7 +5253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58f45cf5-c19f-44e7-a467-b71de490444f")
-		(property "Reference" "R4"
+		(property "Reference" "R8"
 			(at 121.92 64.135 0)
 			(effects
 				(font
@@ -5307,7 +5307,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "R4")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -5323,7 +5323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e4a43c3-bc0e-426f-a29c-2ea21c0a1604")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR030"
 			(at 132.08 57.15 0)
 			(effects
 				(font
@@ -5373,7 +5373,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR026")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -5389,7 +5389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c5f03d0-4f9e-4366-b62a-2f743b763c9f")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR031"
 			(at 138.43 57.15 0)
 			(effects
 				(font
@@ -5439,7 +5439,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR015")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -5455,7 +5455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bc3850b-1967-4e22-a3ac-926ce32ca066")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR028"
 			(at 45.72 56.515 0)
 			(effects
 				(font
@@ -5505,7 +5505,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR017")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -5521,7 +5521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99e65cd4-c850-4bc8-9904-2ca2e11f71d3")
-		(property "Reference" "R3"
+		(property "Reference" "R7"
 			(at 121.92 55.245 0)
 			(effects
 				(font
@@ -5575,7 +5575,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "R3")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -5661,7 +5661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3081186-f525-492f-8149-055a36600744")
-		(property "Reference" "U2"
+		(property "Reference" "U4"
 			(at 106.045 46.99 0)
 			(effects
 				(font
@@ -5716,7 +5716,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "U2")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -5732,7 +5732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7ee280d-0088-4a7b-b4b5-f6ff8e280839")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR029"
 			(at 92.71 57.15 0)
 			(effects
 				(font
@@ -5782,7 +5782,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR024")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -5798,7 +5798,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae03d9d5-9899-4ef5-b534-6e0351b2a3cd")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR032"
 			(at 45.72 61.595 0)
 			(effects
 				(font
@@ -5848,7 +5848,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR018")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -5864,7 +5864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7390bc6-bba4-4a2b-b1c4-eeb5c7cb1a53")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR035"
 			(at 129.54 75.565 0)
 			(effects
 				(font
@@ -5914,7 +5914,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR028")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -5930,7 +5930,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb59cb1a-32f3-4a2f-9b2f-3516c415da41")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR034"
 			(at 119.38 75.565 0)
 			(effects
 				(font
@@ -5980,7 +5980,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "#PWR025")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -5996,7 +5996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2901371-7294-49c2-a6fe-f10ad0d744b2")
-		(property "Reference" "C17"
+		(property "Reference" "C15"
 			(at 96.52 59.69 0)
 			(effects
 				(font
@@ -6050,7 +6050,7 @@
 		(instances
 			(project "ESC"
 				(path "/88e9b63e-ca06-4d41-87b7-50146fa458bf/19277d6f-6fa4-4d47-97bb-6cdb890a6ffd"
-					(reference "C17")
+					(reference "C15")
 					(unit 1)
 				)
 			)
