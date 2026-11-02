@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Will\Documents\GitHub\PCB_practice\DSP_pedal\Pedal\simulations\Jfet_buffer.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov  1 17:42:29 2026
+Total elapsed time: 0.544 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 46628
+traniter = 46620
+tranpoints = 20020
+accept = 13022
+rejected = 6998
+matrix size = 17
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.3/1.3/1.1
+Matrix Compiler1:      44 opcodes  0.2/[0.1]/0.2
+Matrix Compiler2: 1.19 KB object code size  0.2/0.2/[0.1]
+
